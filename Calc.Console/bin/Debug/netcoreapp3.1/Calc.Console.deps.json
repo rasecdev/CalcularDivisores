@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calc.Console/1.0.0": {
+        "dependencies": {
+          "Calc.Servico": "1.0.0"
+        },
+        "runtime": {
+          "Calc.Console.dll": {}
+        }
+      },
+      "Calc.Servico/1.0.0": {
+        "runtime": {
+          "Calc.Servico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calc.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calc.Servico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
